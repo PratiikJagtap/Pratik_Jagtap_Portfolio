@@ -1,3 +1,3 @@
 # PratiikJagtap.io
 
-https://pratiikjagtap.github.io/PratikJagtap/
+https://pratiikjagtap.github.io/Pratik_Jagtap_Portfolio/

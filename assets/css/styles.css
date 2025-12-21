@@ -504,198 +504,51 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__python{
-    width: 90%;
-}
+.skills__su { width: 90%; }
+.skills__RC { width: 90%; }
+.skills__dtr { width: 80%; }
+.skills__sklearn { width: 85%; }
+.skills__mllib { width: 90%; }
+.skills__pytorch { width: 85%; }
+.skills__dgl { width: 85%; }
+.skills__opencv { width: 75%; }
 
-.skills__java{
-    width: 80%;
-}
+.skills__regression { width: 85%; }
+.skills__dt { width: 95%; }
+.skills__ensemble { width: 80%; }
+.skills__clustering { width: 85%; }
+.skills__cnn { width: 80%; }
+.skills__gnn { width: 60%; }
+.skills__recsys { width: 75%; }
+.skills__nlp { width: 75%; }
 
-.skills__sql{
-    width: 85%;
-}
+.skills__python { width: 90%; }
+.skills__java { width: 90%; }      /* NumPy, Pandas */
+.skills__pyspark { width: 95%; }   /* Data Cleaning */
+.skills__r { width: 70%; }         /* Feature Engineering */
+.skills__cpp { width: 80%; }       /* EDA */
+.skills__js { width: 80%; }        /* Statistical Analysis */
+.skills__android { width: 85%; }   /* Data Modeling */
 
-.skills__js{
-    width: 70%;
-}
+.skills__sagemaker { width: 85%; }  /* Data Analysis & Insights */
+.skills__emr { width: 75%; }        /* ETL Concepts */
+.skills__lambda { width: 70%; }     /* Descriptive & Diagnostic */
+.skills__bq { width: 70%; }         /* Predictive Analytics */
+.skills__docker { width: 80%; }     /* Data Transformation */
+.skills__airflow { width: 90%; }    /* Business Metrics & KPIs */
 
-.skills__pyspark{
-    width: 75%;
-}
+/* reuse same bars intentionally */
+.skills__sagemaker { width: 85%; }  /* SQL */
+.skills__emr { width: 75%; }        /* Querying */
+.skills__lambda { width: 70%; }     /* Relational DB */
+.skills__bq { width: 70%; }         /* Big Data Concepts */
+.skills__docker { width: 55%; }     /* PySpark Basics */
 
-.skills__cpp{
-    width: 40%;
-}
-
-.skills__android{
-    width: 85%;
-}
-
-.skills__julia{
-    width: 20%;
-}
-
-.skills__photoshop{
-    width: 70%;
-}
-
-.skills__indesign{
-    width: 90%;
-}
-
-.skills__r{
-    width: 70%;
-}
-
-.skills__excel{
-    width: 70%;
-}
-
-.skills__np{
-    width: 80%;
-}
-
-.skills__pd{
-    width: 90%;
-}
-
-.skills__opencv{
-    width: 65%;
-}
-
-.skills__pillow{
-    width: 65%;
-}
-
-.skills__mtl{
-    width: 70%;
-}
-
-.skills__sklearn{
-    width: 85%;
-}
-
-.skills__nltk{
-    width: 60%;
-}
-
-.skills__dgl{
-    width: 55%;
-}
-
-.skills__streamlit{
-    width: 80%;
-}
-
-.skills__pytorch{
-    width: 85%;
-}
-
-.skills__seaborn{
-    width: 70%;
-}
-
-.skills__looker{
-    width: 75%;
-}
-
-.skills__flask{
-    width: 40%;
-}
-
-.skills__mllib{
-    width: 70%;
-}
-
-.skills__regression{
-    width: 95%;
-}
-
-.skills__dt{
-    width: 95%;
-}
-
-.skills__clustering{
-    width: 65%;
-}
-
-.skills__gnn{
-    width: 60%;
-}
-
-.skills__recsys{
-    width: 75%;
-}
-
-.skills__cnn{
-    width: 80%;
-}
-
-.skills__nlp{
-    width: 65%;
-}
-
-.skills__eda{
-    width: 90%;
-}
-
-.skills__time{
-    width: 65%;
-}
-
-.skills__ensemble{
-    width: 90%;
-}
-
-.skills__mml{
-    width: 70%;
-}
-
-.skills__sagemaker{
-    width: 65%;
-}
-
-.skills__emr{
-    width: 75%;
-}
-
-.skills__docker{
-    width: 60%;
-}
-
-.skills__airflow{
-    width: 40%;
-}
-
-.skills__kafka{
-    width: 40%;
-}
-
-
-.skills__lambda{
-    width: 70%;
-}
-
-.skills__bq{
-    width: 40%;
-}
-
-.skills__redshift{
-    width: 75%;
-}
-
-.skills__rds{
-    width: 70%;
-}
-
-.skills__tableau{
-    width: 50%;
-}
-
-.skills__pbi{
-    width: 50%;
-}
+.skills__sql { width: 85%; }        /* Power BI */
+.skills__redshift { width: 55%; }   /* Tableau */
+.skills__rds { width: 80%; }        /* Matplotlib & Seaborn */
+.skills__tableau { width: 85%; }    /* Dashboards */
+.skills__pbi { width: 80%; }        /* Excel */
 
 .skills__close .skills__list{
     height: 0;
